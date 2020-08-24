@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FotosFirebase"
+    }
+  },
+  "defaultProject": "FotosFirebase",
+  "cli": {
+    "analytics": false
+  }
 }
